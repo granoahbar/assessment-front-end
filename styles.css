@@ -36,3 +36,39 @@ input {
 img {
 	max-width: 300px;
 }
+
+#pagetitle {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#skills {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#interests {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#interests>p {
+	text-align: center;
+}
+
+#careergoals {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#careergoals>p {
+	text-align: center;
+}
+
+#cabutton {
+	color: blue;
+}
