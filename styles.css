@@ -72,3 +72,13 @@ img {
 #cabutton {
 	color: blue;
 }
+
+#aboutmebuttons {
+	display: flex;
+	justify-content: space-between;
+}
+
+.aboutmebuttons {
+	background-color: yellow;
+	height: 40px;
+}
